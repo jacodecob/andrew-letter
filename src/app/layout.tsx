@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "A Letter for Andrew",
-  description: "You've got mail!",
+  title: "jacob-testing-wip",
+  description: "WIP project",
 };
 
 export default function RootLayout({
